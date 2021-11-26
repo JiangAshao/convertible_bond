@@ -5,7 +5,7 @@
 ## 使用方法
 安装依赖项：
 ```
-pip3 install requests
+pip3 install requests  或者 pip3 -r install requirements.txt
 ```
 
 在 [sct.ftqq.com](https://sct.ftqq.com) 扫码登录并获得 SendKey。然后在[消息通道](https://sct.ftqq.com/forward)中配置好你想要的消息通道，并做好测试，确保该 SendKey 可以将消息送达。
@@ -39,3 +39,5 @@ python3 kzz.py
 
 ## 关于打赏
 如果对你有帮助可以点个赞哦，或者打赏作者一杯咖啡哟～
+<img width="609" alt="支付宝" src="https://user-images.githubusercontent.com/11848358/143569245-7b1fe1bd-d170-4327-b729-459ae191fbc1.png">
+<img width="609" alt="微信" src="https://user-images.githubusercontent.com/11848358/143569385-553ec9d1-0cad-44bf-8dcb-c444218832c0.png">
