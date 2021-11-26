@@ -38,6 +38,7 @@ python3 kzz.py
 * 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。本人保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本的规则，则视为您已接受此免责声明。
 
 ## 关于打赏
-如果对你有帮助可以点个赞哦，或者打赏作者一杯咖啡哟～
+**如果对你有帮助可以点个赞哦，或者打赏作者一杯咖啡哟～**
+
 <img width="609" alt="支付宝" src="https://user-images.githubusercontent.com/11848358/143569245-7b1fe1bd-d170-4327-b729-459ae191fbc1.png">
 <img width="609" alt="微信" src="https://user-images.githubusercontent.com/11848358/143569385-553ec9d1-0cad-44bf-8dcb-c444218832c0.png">
