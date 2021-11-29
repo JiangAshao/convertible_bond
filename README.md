@@ -1,4 +1,4 @@
-# convertible_bond
+# 可转债微信提醒
 设置定时任务，每天抓取最新的可转债信息，并通过 sct.ftqq.com 推送到微信
 现在是只提醒当天可以打的新债或者当天上市的新债
 
@@ -29,6 +29,7 @@ python3 kzz.py
 
 ## 参考说明
 感谢[@the-eric-kwok](https://github.com/the-eric-kwok)
+
 根据[Convertible_Bond_Monitor](https://github.com/the-eric-kwok/Convertible_Bond_Monitor.git)修改
 如有侵权，请联系我删除
 
